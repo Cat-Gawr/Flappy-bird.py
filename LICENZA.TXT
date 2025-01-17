@@ -1,0 +1,13 @@
+# Flappy-bird.py
+
+in questi file di Python potete creare da zero[livelo base]il gioco dell'era 2010-2016 chiamato Flappy Bird{sia per IOS e Android}
+ma in questo caso solamente per PC di tutti i tipi da Windows( 8.1 - 10 - 11 )ma anche MACos e Linux
+
+
+
+NON PRENDO NENSSUNA RESPONSABILITà
+
+
+
+
+
